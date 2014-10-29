@@ -3,3 +3,5 @@
   with_items:
     ncview
     volumeicon-alsa
+    fluxbox
+    xterm
